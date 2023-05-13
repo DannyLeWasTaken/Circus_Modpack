@@ -151,6 +151,11 @@ hash = "55a8b11931f7d3c8e7cfc6cab29aee2b6ba49a36f999c1a2cc6cd1f2506ae213"
 metafile = true
 
 [[files]]
+file = "mods/elytra-aeronautics.pw.toml"
+hash = "98334106775c53b654a78ad335b9d28110fb49bbe215333cb190a7aa505416d8"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "28ac85a7ddfb1f4f6b99a194085d59f6ec90cd6bf74331321e57fec3914f3b2b"
 metafile = true
