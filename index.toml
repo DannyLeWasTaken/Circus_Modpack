@@ -120,11 +120,6 @@ hash = "6ddc3bbe998bc708a6d986368c3c798ea0df279b0de8a9a5cb67b0bc26cea5b8"
 metafile = true
 
 [[files]]
-file = "mods/create-decoration-casing.pw.toml"
-hash = "9a476e0609bc35955633a25d62f197d5fa2d23865c3715b4015fc8ad8c952dc0"
-metafile = true
-
-[[files]]
 file = "mods/create-extended-cogwheels-fabric.pw.toml"
 hash = "ba3c9ee4ce1631059cc8677b042a243c12355dce2ed7213e49dac54b8bf9bd0c"
 metafile = true
@@ -182,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/essential.pw.toml"
 hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "8724b054bc828825733260f59f7d87bf6e1549e8da7273fa1a9ae73cc434f344"
 metafile = true
 
 [[files]]
@@ -350,6 +350,11 @@ hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
 metafile = true
 
 [[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
@@ -407,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "150766a6f684f0ca0d3ac68cfef99c335b06ff65d657b117bd6ed6b72821271d"
+metafile = true
+
+[[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "e5e31faa8cfaf867bff106d682f6bb266fed02d0dc4402a8d8bd540a42d170a3"
 metafile = true
 
 [[files]]
