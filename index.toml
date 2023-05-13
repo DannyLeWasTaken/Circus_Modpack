@@ -5,6 +5,10 @@ file = "config/ElytraAeronautics.ser"
 hash = "2dc67909d6b86d497d26d280e1fac8d9e0fdd615b0a69c39d5fcbfc25e85177d"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "d1f8e7bfc52f108693e8784a4463cbbf707e41d5f593aca199931226b2b4c2f8"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "b235557f37100f1f94f8eb584bc49bf7c84fc60a0939a71a0f19f28ccc4697e6"
 
