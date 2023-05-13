@@ -306,6 +306,16 @@ hash = "aa2e9887f3e7716b653b69c97d2a475d9be64da1a364d98cce3ea5685ffafba8"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "766c74901386e7e1b8388b7792f3e43946151af25b90cea44815229b450b2746"
 metafile = true
