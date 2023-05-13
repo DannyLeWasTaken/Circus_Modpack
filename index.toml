@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ddb323e90c6a2fe0d5d023772a3d35426a8210ff77df719010b8ee09ab4619ab"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
 metafile = true
@@ -56,6 +60,11 @@ hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
@@ -83,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "9322278362644f81f8cc456b622d0b761eaf2677abbaca5db1952b23098a33bb"
 metafile = true
 
 [[files]]
@@ -188,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
-metafile = true
-
-[[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "627336b8e823ffcb097b0b30167a3a10dabc3c71f1b888ca09c79d106eea0a9a"
 metafile = true
 
 [[files]]
