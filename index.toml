@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ElytraAeronautics.ser"
+hash = "2dc67909d6b86d497d26d280e1fac8d9e0fdd615b0a69c39d5fcbfc25e85177d"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "b235557f37100f1f94f8eb584bc49bf7c84fc60a0939a71a0f19f28ccc4697e6"
+
+[[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "50de85edfcfad61b22b0a248c01782945ad70bfe1ed6173a497a9ecce8aaa37a"
 
