@@ -1,0 +1,13 @@
+name = "Resource Tools [FABRIC]"
+filename = "ResourcefulTools-Fabric-1.19.2-1.3.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b54ca06d47deb74555d8f5703bc61be58d819a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4046463
+project-id = 379040

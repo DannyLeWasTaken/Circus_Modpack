@@ -1,0 +1,13 @@
+name = "Teeny Coal"
+filename = "teenycoal-1.1.4-1.19.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24565dcc27073696d5316937267c30ccb94cf67f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3845915
+project-id = 510346
