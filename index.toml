@@ -140,8 +140,8 @@ hash = "d9c7722a164bebefdd8bb8945c37f6f33db30fa68506e4dea6a8f3fdaa2a0b97"
 metafile = true
 
 [[files]]
-file = "mods/create-deco.pw.toml"
-hash = "6ddc3bbe998bc708a6d986368c3c798ea0df279b0de8a9a5cb67b0bc26cea5b8"
+file = "mods/create-deco-fabric.pw.toml"
+hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
 metafile = true
 
 [[files]]
