@@ -54,11 +54,6 @@ hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
 metafile = true
 
 [[files]]
-file = "mods/autoswitch.pw.toml"
-hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
@@ -191,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view-fabric.pw.toml"
+hash = "3580c51958e6fd25cd247d1b3405e497faac54d47fe1a1d2d951e7c17c47c0d9"
 metafile = true
 
 [[files]]
