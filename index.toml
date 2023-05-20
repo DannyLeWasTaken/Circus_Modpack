@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ElytraAeronautics.ser"
-hash = "2dc67909d6b86d497d26d280e1fac8d9e0fdd615b0a69c39d5fcbfc25e85177d"
+hash = "ea8816e4942118bcb969d604ba41cedd2d202fd9656c9156b06cb48cf4e3c143"
 
 [[files]]
 file = "config/bclib/server.json"
