@@ -5,6 +5,10 @@ file = "config/ElytraAeronautics.ser"
 hash = "2dc67909d6b86d497d26d280e1fac8d9e0fdd615b0a69c39d5fcbfc25e85177d"
 
 [[files]]
+file = "config/bclib/server.json"
+hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
+
+[[files]]
 file = "config/travelersbackpack.json5"
 hash = "d1f8e7bfc52f108693e8784a4463cbbf707e41d5f593aca199931226b2b4c2f8"
 
@@ -76,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
+hash = "68f179eccbf7250d68a56d9943455742285e78744664ae75c4d6186ee5d4a95b"
 metafile = true
 
 [[files]]
@@ -92,6 +96,16 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
 metafile = true
 
 [[files]]
@@ -121,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "9322278362644f81f8cc456b622d0b761eaf2677abbaca5db1952b23098a33bb"
+hash = "d7250cb266b2c755acca03a407890508e398159920fd5096ac061db0b4d83622"
 metafile = true
 
 [[files]]
@@ -156,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
+hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
 metafile = true
 
 [[files]]
@@ -211,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "75e7dc3d2505f127b6e4ee108b7e03f1252095cdd00606c3624a3286e26d1388"
+hash = "36cf309a2d3d34c591c542acc2b5fcf0c4f9e5316de6d2624b8ec9f1b8db00b9"
 metafile = true
 
 [[files]]
@@ -315,6 +329,11 @@ hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "dd5d292e40d52631f69178a39643d6d55c2184773f03acb2870b8865ffe7ad8a"
+metafile = true
+
+[[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "eaf2421881c933c1101bb53d4be72aa4ac70fb5b318ac3a9dff79a0859fd18c7"
 metafile = true
@@ -326,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "67f7efeaff9aeff00f87338d908a291cf4ce652e1c3deb3563b04c51764c36ab"
+hash = "296b56b40ac9307ed1ca7fa5f2a74cd5f6f69177ae6da768856d2f0742e2f9cb"
 metafile = true
 
 [[files]]
@@ -342,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "8239da3cae4ff505ec5a8bd260fd155cd5e487d3f1d6dd7525b4d7f9594637de"
 metafile = true
 
 [[files]]
@@ -391,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "44e9de6f61164aea315b8e452bbaa05bb7bec5ff5382e9b44d336591f59b3d2c"
+hash = "39683680c7eeda074893c9ae8f4692c14f98227f8319c55849f079fd9adcc065"
 metafile = true
 
 [[files]]
@@ -401,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "78cd77b7e69937b7cc4007530ff54879868e7a17e075a6a041c9878b4e8659cd"
+hash = "5f651bbd39a1afaba66fd43f5ba09e596b9f703bc296125d0de3f6aa24083866"
 metafile = true
 
 [[files]]
@@ -466,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "53a9fb8cd7ccb14739a20f731cda8dbcd8e400b9117fe06bfeca9e38360f3249"
+hash = "af91911598c81b1f3744c1e8f0a7258fbd74a85b87f67d78b52730a2e85c8e0a"
 metafile = true
 
 [[files]]
@@ -501,12 +525,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3813f3748573f44286768414daad7c46a1cfe541df3cd783dba673b8a115454d"
+hash = "b7f921c060cf99a26b512af6904ce61bfc4df8ed7953a79191c6c044bb5b48d7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e7bd6a81d8a7554d1f785939ba5a9a9038b489eb5236873d7dca0eece7b70b97"
+hash = "4fc04c033645b48c12b44ad8fed2aeaa0d839ea9b1bb1846f4918d262da347d9"
 metafile = true
 
 [[files]]
